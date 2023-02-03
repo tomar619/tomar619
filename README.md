@@ -24,6 +24,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tomar619&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomar619&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Recent Activity⚡
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## My Latest Blog Posts📖
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tomar619&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -36,7 +44,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tomar619&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Show your support
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amittomar6y) 
 
   
