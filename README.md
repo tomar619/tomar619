@@ -36,10 +36,6 @@
   
 </div>
 
-## Recent Activity⚡
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## My Latest Blog Posts📖
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
