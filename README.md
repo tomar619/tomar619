@@ -6,7 +6,7 @@
 
 ![Header](./github-header-tomar619.png)
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+<img align="right" alt="GIF" src="https://www.damiestechnologies.com/img/programmer.gif" width="320" height="280" />
 
 # 💫 About Me:
 
