@@ -6,7 +6,7 @@
 
 ![Header](./github-header-tomar619.png)
 
-<img align="right" alt="GIF" src="https://www.damiestechnologies.com/img/programmer.gif" width="320" height="280" />
+<img align="right" alt="GIF" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320" height="280" />
 
 # 💫 About Me:
 
