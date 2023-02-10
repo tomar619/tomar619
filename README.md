@@ -6,7 +6,7 @@
 
 ![Header](./github-header-tomar619.png)
 
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="350" height="250" />
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="450" height="350" />
 
 # 💫 About Me:
 
