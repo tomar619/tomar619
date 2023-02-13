@@ -1,5 +1,3 @@
-### Hello World 👋
-
 <!--
 **tomar619/tomar619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -66,8 +64,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## My Latest Blog Posts📖
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+[![Amit Medium](https://github-readme-medium.vercel.app/?username=amittomar619&limit=3)](https://medium.com/@amittomar619)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -94,6 +91,6 @@
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-### Show some ❤️ by starring some of the repositories!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Purple+Code&pause=1000&width=800&lines=Show+some+❤️+by+starring+some+of+the+repositories+!)](https://git.io/typing-svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
