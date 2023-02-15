@@ -81,12 +81,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⚒️ Latest GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 [![](https://visitcount.itsvg.in/api?id=tomar619&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Show your support
