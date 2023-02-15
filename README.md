@@ -41,10 +41,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tomar619&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="tomar619" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tomar619&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
-
+<p align="center">
+	<a href="https://github.com/victor-cody">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomar619&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tomar619&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"/>
+	</a>
+</p>
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomar619&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tomar619" />
 
@@ -60,30 +62,31 @@
 -->
   
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## My Latest Blog Posts📖
 [![Amit Medium](https://github-readme-medium.vercel.app/?username=amittomar619&limit=3)](https://medium.com/@amittomar619)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tomar619&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 😂 Here's a Dev Joke for you
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/>  -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- 
----
+### ⚒️ Latest GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![](https://visitcount.itsvg.in/api?id=tomar619&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Show your support
