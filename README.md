@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on with TCS as a consultant for Scandinavian Airlines(SAS)
+- 🔭 I’m currently working with Scandinania's leading media streaming platform.
 - 🌱 I’m currently learning more about Modern web development
 - 👯 I’m looking to collaborate on Open API
 - 🤔 I’m looking for help with DSA
